@@ -1,4 +1,4 @@
-# demo
-This is my first repository.
+# Demo
+This is my first Git Repository.
 <br>
 Author- Aryan Dabas
